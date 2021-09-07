@@ -2,12 +2,12 @@
 import Desenvolvedor from guihenriquelb;
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Guilherme Henrique';
+  nome = 'Guilherme Henrique';
   local = 'Botucatu-SP';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript, Python, Java, VB.NET, HTML, CSS3'];
+  linguagens = ['JavaScript, Python, Java, VB.NET, HTML, CSS3'];
 }
 ```
 
