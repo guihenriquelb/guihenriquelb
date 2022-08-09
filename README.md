@@ -1,4 +1,34 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guihenriquelb/f879c18d1435153cf3e3f55b5c57c638/raw/7448a5bab05cf8395310dd4d20ae17bc746224f6/gitcard1.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Henrique</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guihenriquelb&color=yellow" alt="Profile views" /> </p>
 
+
+- 🔭 I’m currently studyng at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) and [Rocketseat](https://github.com/Rocketseat)
+
+- ▶️ [LinkedIn](https://www.linkedin.com/in/guihenriquelb/)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+
+<br>
+
+## Contact
 
 <p align="left">
 
