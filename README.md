@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guihenriquelb&color=yellow" alt="Profile views" /> </p>
 
 
-- 🔭 I’m currently studyng at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) and [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently studyng at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
