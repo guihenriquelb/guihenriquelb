@@ -5,13 +5,17 @@
 
 - 🔭 I’m currently studyng at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) and [Rocketseat](https://github.com/Rocketseat)
 
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
 - ▶️ [LinkedIn](https://www.linkedin.com/in/guihenriquelb/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
 
 
 
 <br>
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -27,6 +31,7 @@
 
 
 <br>
+
 
 ## Contact
 
