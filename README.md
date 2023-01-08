@@ -16,14 +16,14 @@
 
 ## About me
 - 🔭 I’m currently studying at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) 
-- 💬 Ask me about HTML, CSS, JavaScript, React, SQL
+- 💬 Ask me about HTML, CSS, JavaScript, SQL
 
 ## Tech Stack
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/css3-plain.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/javascript-plain.svg">
-   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <!-- <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Gui-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
