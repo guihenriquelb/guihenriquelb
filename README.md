@@ -17,7 +17,7 @@
 ## About me
 - 🔭 I’m currently studying at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) 
 - 💬 Ask me about HTML, CSS, JavaScript, React, SQL
--
+
 ## Tech Stack
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/html5-plain.svg">
