@@ -38,13 +38,8 @@
 
 
 
-![Snake animation](https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/output/github-contribution-grid-snake.svg)
 
-<hr />
 
-<div align='center'>
-<p> Thanks for the visit 😁</p>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=guihenriquelb&color=blueviolet" alt="Profile views" /> </p>
-  
 
-</div>
+
+
