@@ -15,8 +15,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 ## About me
-- 🔭 I’m currently studying at [Faculdade de Tecnologia de Botucatu](https://www.fatecbt.edu.br/fatec/index.php/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) 
-- 💬 Ask me about HTML, CSS, JavaScript, SQL
+
+- 💬 Ask me about HTML, CSS, JavaScript, SQL, and IT Support
 
 ## Tech Stack
 <div align="center"><br>
